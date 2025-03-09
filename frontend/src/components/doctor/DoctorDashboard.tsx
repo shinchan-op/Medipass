@@ -1041,7 +1041,7 @@ const DoctorDashboard: React.FC = () => {
   return (
     <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
       <Typography variant="h4" gutterBottom>
-        Welcome, Dr. {user?.name}
+        Welcome,{user?.name}
       </Typography>
       <Typography variant="subtitle1" color="textSecondary" gutterBottom>
         Doctor Dashboard
