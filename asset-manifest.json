@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Medipass/static/css/main.e6c13ad2.css",
-    "main.js": "/Medipass/static/js/main.9b861190.js",
+    "main.js": "/Medipass/static/js/main.8c737731.js",
     "static/js/453.8ab44547.chunk.js": "/Medipass/static/js/453.8ab44547.chunk.js",
     "index.html": "/Medipass/index.html",
     "main.e6c13ad2.css.map": "/Medipass/static/css/main.e6c13ad2.css.map",
-    "main.9b861190.js.map": "/Medipass/static/js/main.9b861190.js.map",
+    "main.8c737731.js.map": "/Medipass/static/js/main.8c737731.js.map",
     "453.8ab44547.chunk.js.map": "/Medipass/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9b861190.js"
+    "static/js/main.8c737731.js"
   ]
 }
