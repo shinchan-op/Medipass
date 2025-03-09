@@ -60,11 +60,3 @@ A modern healthcare platform that connects doctors and patients, streamlining me
 
 - The application uses mock data for demonstration when MongoDB is not connected
 - Authentication is bypassed in development mode for easier testing
-
-## License
-
-[MIT License](LICENSE)
-
-## Contact
-
-Your Name - your.email@example.com 
